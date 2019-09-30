@@ -1,0 +1,5 @@
+print ('Hello World')
+print ('John')
+print ('John Kennedy')
+print ('2*2')
+print ('2+5+9')
